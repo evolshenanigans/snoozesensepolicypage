@@ -23,7 +23,7 @@ export default function Home() {
             requesting account deletion. Upon receipt of your request, we will
             process your account deletion promptly. Please be aware that once
             your account is deleted, all associated data will be permanently
-            removed from our servers, and this action cannot be reversed. It's
+            removed from our servers, and this action cannot be reversed. It&apos;s
             important to ensure that you are ready to lose access to your
             account and all associated data before sending a deletion request.
             Your privacy and satisfaction are our priority, and our team is here
