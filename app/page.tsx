@@ -31,12 +31,11 @@ export default function Home() {
           </p>
         </section>
         <section>
-          <h2>Privacy Policy for SnoozeSense</h2>
           <article>
             <p>
               <strong>Privacy Policy for SnoozeSense</strong>
               <br />
-              Last updated: (insert date)
+              Last updated: (10/30/2023)
               <br />
               <br />
               SnoozeSense (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;)
